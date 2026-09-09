@@ -46,7 +46,7 @@ An comprehensive IINA plugin that provides Jellyfin media server integration, in
 1. Open IINA
 2. Go to Preferences → Plugins
 3. Click "Install from GitHub..."
-4. Paste `mhajder/iina-jellyfin` and click Install
+4. Paste `tylergannon/iina-jellyfin` and click Install
 5. The plugin will appear in IINA's Plugin preferences
 
 ## Getting Started
